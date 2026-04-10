@@ -39,8 +39,9 @@ This project introduces an intelligent agent that automates attendance tracking,
 4. Outputs organized data for tracking and analysis
 
 ## 📸 Demo
+![Diseño sin título](https://github.com/user-attachments/assets/b0d70908-b700-4209-86bb-b4f59e9b9a8e)
 
-<img width="590" height="1280" alt="image" src="https://github.com/user-attachments/assets/17081bda-9495-4806-8296-7ab8afbfd94d" />
+
 
 
 ## 📊 Use Case
